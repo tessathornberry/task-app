@@ -1,6 +1,8 @@
 import React from 'react';
 import initialData from './initialData.js';
 import Column from './Column.js';
+// import '@atlaskit/css-reset';
+
 
 const App = () => {
   let data = initialData;
